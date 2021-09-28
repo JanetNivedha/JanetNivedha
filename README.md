@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...Indian
 -->
-![gif from nerdy.dev](https://github.com/janetnivedha/janetnivedha/blob/master/janetnivedha-sm2.gif?raw=true)
+
