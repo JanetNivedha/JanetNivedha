@@ -9,5 +9,3 @@
 - 📫 How to reach me: janetnivedha97@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: [🎵 🥘 📚] ❤️
-
-
