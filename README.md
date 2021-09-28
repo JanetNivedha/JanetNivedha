@@ -8,7 +8,6 @@
 - 💬 Ask me about anything (Pssst: Biology, novels, food, travel)
 - 📫 How to reach me: janetnivedha97@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Indian
+- ⚡ Fun fact: Musicophile, foodie, bibliophile
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)![800wm](https://user-images.githubusercontent.com/88315354/135076396-83cdc503-4b28-4ff7-95a9-c452cbd574dc.jpg)
+
